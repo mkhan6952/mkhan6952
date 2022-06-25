@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkhan6952
+- 👋 Hi, I’m Imran
 - 👀 I’m interested in front-end developing
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on front-end project that make my skill more greater
