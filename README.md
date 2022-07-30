@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Imran
-- 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on front-end project that make my skill more greater
-- 📫 How to reach me mkhan6952@gmail.com
+Hi, I'm Imran, and I freshly graduated from Arid University with a degree in Computer Science. I'm a Frontend Developer and ReactJs has made me fall in love with Frontend Development.I love to create beautiful and performant products in React.js.My professional goal is to work together with experienced computer programmers and leading IT professionals to improve my skill set.
 
-<!---
-mkhan6952/mkhan6952 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My skillset includes:
+‣ React.js
+‣ JavaScript
+‣ Bootstrap
+‣ HTML & CSS
+‣ Firebase
+‣ CSS Preprocessors (SASS)
+‣ State Management (Redux, Context API, etc.)
+‣ Software Version Control (Git & Github)
+
+Feel free to get in touch with me:
+📧 mkhan6952@gmail.com
+
